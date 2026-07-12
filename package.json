@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/mohibullah-dev-tech/-Complete-Backend#readme",
   "dependencies": {
+    "@imagekit/nodejs": "^7.9.1",
     "express": "^5.2.1",
-    "mongoose": "^9.7.4"
+    "mongoose": "^9.7.4",
+    "multer": "^2.2.0"
   }
 }
